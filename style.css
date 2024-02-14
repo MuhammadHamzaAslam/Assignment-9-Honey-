@@ -1,0 +1,48 @@
+#main{
+    height: 100%;
+    width: 100%;
+    background: url(images/background.png);
+    background-size: cover;
+}
+a{
+    color: black !important;
+    text-decoration: none !important;
+}
+#but{
+    width: 150px;
+    border-radius: 37px;
+    height: 50px;
+    background-color: #D96226;
+    border: none;
+}
+#main2{
+    height: 100%;
+    width: 100%;
+    background: url(images/background.png);
+    background-size: cover;
+}
+#cards{
+    background-color: aqua;
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+}
+::placeholder{
+    /* color: white; */
+}
+input{
+    width: 350px;
+    height: 60px;
+}
+textarea{
+    resize: none;
+    width: 350px;
+    height: 60px;
+}
+li{
+    list-style-type: none;
+}
+#kjkk{
+    width: 200px;
+    height: 60px !important;
+}
