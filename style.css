@@ -1,7 +1,7 @@
 #main{
-    height: 100%;
+    height: 600px;
     width: 100%;
-    background: url(images/background.png);
+    background: url(images/bees1.png);
     background-size: cover;
 }
 a{
@@ -16,13 +16,23 @@ a{
     border: none;
 }
 #main2{
-    height: 100%;
+    height:2000px ;
     width: 100%;
-    background: url(images/background.png);
+    background: url(images/bees1.png);
     background-size: cover;
 }
+#nav{
+    background-color: ;
+}
+#hh2{
+    /* border: 1px solid black; */
+    height: 400px;
+}
+#about{
+    font-size: 40pt;
+}
 #cards{
-    background-color: aqua;
+    background-color: white;
     height: 250px;
     width: 250px;
     border-radius: 50%;
@@ -33,6 +43,9 @@ a{
 input{
     width: 350px;
     height: 60px;
+}
+#mm{
+    font-size: 50pt;
 }
 textarea{
     resize: none;
